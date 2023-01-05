@@ -76,11 +76,20 @@ nav li{
     padding: 130px 150px;
     text-align: center;
 }
+.resume-sec-title{
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
 .sec-title{
     
     margin-bottom: 30px;
     font-weight: 700;
     font-size: 35px;
+    text-align: center;
+    
 
 }
 .sec-description{
@@ -102,4 +111,54 @@ nav li{
     font-weight:700 ;
     font-size: 20px;
     color: #474747;
+}
+/* what i do */
+.what-i-do{
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-size: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.resume-content{
+    display: flex;
+    gap:20px;
+}
+.title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #363232;
+    margin-bottom: 10px;
+    
+}
+.sub-title{
+    color: #bc6868;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.description{
+    color: #757575;
+    margin-bottom: 8px;
+    
+}
+.resume-item{
+    margin-top: 30px;
 }
