@@ -188,4 +188,7 @@ nav li{
     width: 100%;
     padding: 18px 30px;
 }
+.contact a{
+    text-decoration: none;
+}
 
